@@ -1,0 +1,33 @@
+// seletores: propriedades: valores
+
+// tag ; class ; id ; * = seletor global
+
+// formatação básica
+* {
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+}
+ 
+// Selecionar por tag
+img { 
+    width: 300px;
+}
+header {
+    background-color: pink;
+}
+
+// Selecionar por classe
+.card {
+    background-color: palevioletred;
+    border: 5px solid powderblue;    
+}
+.card1 {
+    background-color: paleturquoise;
+    border: 5px solid plum;
+}
+
+// Selecionar por id
+#btn1 {background-color: blueviolet;
+
+}

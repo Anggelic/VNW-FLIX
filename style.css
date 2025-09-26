@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 300px;
+}
+
+header {
+  background-color: pink;
+}
+
+.card {
+  background-color: palevioletred;
+  border: 5px solid powderblue;
+}
+
+.card1 {
+  background-color: paleturquoise;
+  border: 5px solid plum;
+}
+
+#btn1 {
+  background-color: blueviolet;
+}/*# sourceMappingURL=style.css.map */
